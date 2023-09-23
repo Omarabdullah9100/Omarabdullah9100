@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Omarabdullah9100
+- 👋 Hi, I’m @Omarabdullah
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Computer Science & Engineering
 - 📫 Reach me through Linkedin
